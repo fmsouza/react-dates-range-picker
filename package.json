@@ -4,7 +4,7 @@
   "description": "Small, stateless date / date range picker for react-dates.",
   "main": "lib/index.js",
   "jsnext:main": "src/index.js",
-  "module": "src/index.js",
+  "module": "lib/index.js",
   "scripts": {
     "test": "jest",
     "test:watch": "jest --watch",
